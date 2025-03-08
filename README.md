@@ -7,3 +7,5 @@ Uses the optimized model parameters of the Malfliet-Tjon (MT) potential to const
 Solves the phase equation using a 5th-order numerical method.
 Calculates neutron-proton (n-p) and proton-proton (p-p) phase shifts at different energies.
 Computes the NN cross sections using the obtained n-p and p-p phase shifts at different energies
+
+**The Reference papers are uploaded in the Repository"
